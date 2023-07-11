@@ -5,6 +5,7 @@
 #
 
 BUILD_BROKEN_DUP_RULES := true
+DISABLE_ARTIFACT_PATH_REQUIREMENTS := true
 
 # Kernel
 TARGET_KERNEL_CONFIG := tangorpro_gki_defconfig

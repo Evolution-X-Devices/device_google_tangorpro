@@ -14,7 +14,7 @@
         <version>7.1</version>
         <interface>
             <name>IDevicesFactory</name>
-            <instance>mediashell</instance>
+            <instance>default</instance>
         </interface>
     </hal>
 </compatibility-matrix>

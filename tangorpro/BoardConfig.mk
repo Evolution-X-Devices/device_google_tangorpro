@@ -32,4 +32,4 @@ include device/google/gs201/BoardConfig-common.mk
 include device/google/tangorpro/sepolicy/tangorpro-sepolicy.mk
 include device/google/tangorpro/wifi/BoardConfig-wifi.mk
 
-include device/google/tangorpro/tangorpro/BoardConfigLineage.mk
+include device/google/tangorpro/tangorpro/BoardConfigEvolution.mk
