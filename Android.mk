@@ -28,13 +28,4 @@ LOCAL_PATH := $(call my-dir)
 ifneq (,$(filter $(TARGET_DEVICE),tangorpro))
   include $(call all-makefiles-under,$(LOCAL_PATH))
 
-HBM_LIBS := libhbmsvmanager_jni.so
-HBM_SYMLINKS := $(addprefix $(TARGET_OUT_SYSTEM_EXT)/priv-app/HbmSVManager/lib/arm64/,$(notdir $(HBM_LIBS)))
-$(HBM_SYMLINKS): $(LOCAL_INSTALLED_MODULE)
-	@echo "HBM lib link: $@"
-	@mkdir -p $(dir $@)
-	@rm -rf $@
-	$(hide) ln -sf /system_ext/lib64/$(notdir $@) $@
-
-ALL_DEFAULT_INSTALLED_MODULES += $(HBM_SYMLINKS)
 endif
