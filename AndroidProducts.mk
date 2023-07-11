@@ -18,7 +18,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_tangorpro.mk \
     $(LOCAL_DIR)/aosp_tangorpro_hwasan.mk \
     $(LOCAL_DIR)/factory_tangorpro.mk \
-    $(LOCAL_DIR)/lineage_tangorpro.mk
+    $(LOCAL_DIR)/evolution_tangorpro.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_tangorpro-trunk_staging-userdebug
