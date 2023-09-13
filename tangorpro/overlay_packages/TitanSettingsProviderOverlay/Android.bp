@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "TitanSettingsProviderOverlay",
+    product_specific: true,
+}

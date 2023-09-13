@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">የኃይል መሙላት ድምጾች</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">ወደ መነሻ ለመሄድ ከታች ወደ ላይ በፍጥነት በጣት ያንሸራትቱ። የተግባር አሞሌውን ለመድረስ ከታች ወደ ላይ በቀስታ በጣት ያንሸራትቱ። መተግበሪያዎችን ለመቀየር ከታች ወደ ላይ በጣት ያንሸራትቱ፣ ይያዙ እና ይልቀቁ። ወደ ኋላ ለመመለስ ከግራ ወይም ቀኝ ጠርዝ በጣት ያንሸራትቱ።</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">የWi-Fi ተውሂብ አጠቃቀም</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ይህ የሚከተሉትን ጨምሮ ሁሉንም የአውታረ መረብ ቅንብሮች ዳግም ያስጀምራል፦
+
+"<li>Wi-Fi</li>"
+"<li>ብሉቱዝ</li></string>
+    <string name="reset_network_title">Wi-Fi እና ብሉቱዝን ዳግም አስጀምር</string>
+    <string name="sound_dashboard_summary">የድምጽ መጠን፣ አትረብሽ</string>
+    <string name="sound_settings">ድምፅ</string>
+    <string name="tether_settings_title_all">እንደ ሞደም መሰካት</string>
+    <string name="tethering_footer_info">በዩኤስቢ፣ ኢተርኔት ወይም ብሉቱዝ በኩል ለሌሎች መሣሪያዎች በይነመረብን ለማቅረብ እንደ ሞደም መሰካትን ይጠቀሙ።</string>
+</resources>

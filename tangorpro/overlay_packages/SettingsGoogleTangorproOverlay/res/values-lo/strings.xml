@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">ສຽງການສາກ</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">ເພື່ອກັບໄປໜ້າຫຼັກ, ໃຫ້ປັດຂຶ້ນຈາກລຸ່ມສຸດແບບໄວໆ. ເພື່ອເຂົ້າເຖິງແຖບໜ້າວຽກ, ໃຫ້ປັດຂຶ້ນຈາກລຸ່ມສຸດແບບຊ້າໆ. ເພື່ອສະຫຼັບແອັບ, ໃຫ້ປັດຂຶ້ນຈາກລຸ່ມສຸດ, ກົດຄ້າງໄວ້ ແລ້ວປ່ອຍ. ເພື່ອກັບຄືນ, ໃຫ້ປັດຈາກຂອບຊ້າຍ ຫຼື ຂວາ.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">ການນຳໃຊ້ອິນເຕີເນັດ Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ການດຳເນີນການນີ້ຈະຣີເຊັດການຕັ້ງຄ່າເຄືອຂ່າຍທັງໝົດ, ຮວມເຖິງ:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">ຣີເຊັດ Wi-Fi ແລະ Bluetooth</string>
+    <string name="sound_dashboard_summary">ລະດັບສຽງ, ຫ້າມລົບກວນ</string>
+    <string name="sound_settings">ສຽງ</string>
+    <string name="tether_settings_title_all">ການປ່ອຍສັນຍານ</string>
+    <string name="tethering_footer_info">ໃຊ້ການປ່ອຍສັນຍານເພື່ອໃຫ້ບໍລິການອິນເຕີເນັດກັບອຸປະກອນອື່ນໆຜ່ານທາງ USB, ອີເທີເນັດ ຫຼື Bluetooth.</string>
+</resources>

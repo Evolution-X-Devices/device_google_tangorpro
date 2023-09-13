@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Suoni caricamento</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">"Per andare alla schermata Home, scorri rapidamente dal basso verso l'alto. Per accedere alla barra delle app, scorri lentamente dal basso verso l'alto. Per cambiare app, scorri dal basso verso l'alto, tieni premuto e rilascia. Per tornare indietro, scorri dal bordo sinistro o destro."</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Utilizzo dei dati Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Verranno reimpostate tutte le impostazioni di rete, tra cui:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Reimposta Wi-Fi e Bluetooth</string>
+    <string name="sound_dashboard_summary">Volume, Non disturbare</string>
+    <string name="sound_settings">Audio</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Utilizza il tethering per fornire Internet ad altri dispositivi tramite USB, Ethernet o Bluetooth.</string>
+</resources>

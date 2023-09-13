@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Zvuky při nabíjení</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Pokud chcete přejít na plochu, rychle přejeďte zdola nahoru. Pokud chcete zobrazit panel aplikací, pomalu přejeďte zdola nahoru. Aplikace přepnete přejetím prstem zdola nahoru, podržením obrazovky a uvolněním prstu. Zpět se vrátíte přejetím prstem z levého nebo pravého okraje obrazovky.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Využití dat přes Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Bude resetováno nastavení všech sítí, včetně těchto:
+
+"<li>Wi-Fi,</li>"
+"<li>Bluetooth.</li></string>
+    <string name="reset_network_title">Resetovat Wi-Fi a Bluetooth</string>
+    <string name="sound_dashboard_summary">Hlasitost, Nerušit</string>
+    <string name="sound_settings">Zvuk</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Pomocí tetheringu můžete poskytovat internet dalším zařízením přes USB, ethernet nebo Bluetooth.</string>
+</resources>

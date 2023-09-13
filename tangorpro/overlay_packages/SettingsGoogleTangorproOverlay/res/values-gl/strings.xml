@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sons ao cargar a batería</string>
+    <string name="data_usage_app_summary_title">Wifi</string>
+    <string name="edge_to_edge_navigation_summary">Para ir á pantalla de inicio, pasa o dedo rapidamente cara arriba desde a parte inferior da pantalla. Para acceder á Barra de tarefas, pasa o dedo amodo cara arriba desde a parte inferior da pantalla. Para cambiar de aplicación, pasa o dedo cara arriba desde a parte inferior da pantalla, mantena premida e sóltaa. Para volver á pantalla anterior, pasa o dedo desde o bordo esquerdo ou dereito.</string>
+    <string name="network_dashboard_summary_no_mobile">Wifi</string>
+    <string name="non_carrier_data_usage">Uso de datos wifi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Con esta selección, restableceranse todas as opcións de configuración de rede, entre elas as referentes a:
+
+"<li>Wifi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Restablecer a wifi e o Bluetooth</string>
+    <string name="sound_dashboard_summary">Volume, modo Non molestar</string>
+    <string name="sound_settings">Son</string>
+    <string name="tether_settings_title_all">Conexión compartida</string>
+    <string name="tethering_footer_info">Usa a conexión compartida para conectar outros dispositivos a Internet por USB, Ethernet ou Bluetooth.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">အားသွင်းသည့်အသံများ</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">ပင်မစာမျက်နှာသို့ သွားရန် အောက်ခြေမှ အပေါ်သို့ အမြန်ပွတ်ဆွဲပါ။ Taskbar သုံးရန် အောက်ခြေမှ အပေါ်သို့ ဖြည်းဖြည်းပွတ်ဆွဲပါ။ အက်ပ်များအကြား ပြောင်းရန် ဖန်သားပြင်အောက်မှ အပေါ်သို့ပွတ်ဆွဲ၍ ဖိထားပြီးနောက် လွှတ်လိုက်ပါ။ ပြန်သွားရန် ဘယ်အစွန် (သို့) ညာအစွန်မှ ပွတ်ဆွဲပါ။</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi ဒေတာသုံးစွဲမှု</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"၎င်းသည် အောက်ပါတို့အပါအဝင် ကွန်ရက်ဆက်တင်အားလုံးကို ပြင်ဆင်သတ်မှတ်မည်- 
+
+"<li>Wi‑Fi</li>"
+"<li>ဘလူးတုသ်</li></string>
+    <string name="reset_network_title">Wi-Fi နှင့် ဘလူးတုသ်ကို ပြင်ဆင်သတ်မှတ်ရန်</string>
+    <string name="sound_dashboard_summary">အသံအတိုးအကျယ်၊ မနှောင့်ယှက်ရ</string>
+    <string name="sound_settings">အသံ</string>
+    <string name="tether_settings_title_all">မိုဘိုင်းသုံးတွဲချိတ်မှု</string>
+    <string name="tethering_footer_info">USB၊ အီသာနက် (သို့) ဘလူးတုသ်မှတစ်ဆင့် အခြားစက်များကို အင်တာနက်ပေးရန် မိုဘိုင်းသုံးတွဲချိတ်မှု သုံးနိုင်သည်။</string>
+</resources>

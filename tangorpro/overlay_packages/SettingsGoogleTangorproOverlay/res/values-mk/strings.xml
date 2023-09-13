@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Звуци на полнење</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">За да одите на вашиот почетен екран, брзо повлечете нагоре од дното. За да ја отворите лентата со задачи, бавно повлечете нагоре од дното. За префрлање помеѓу апликации, повлечете нагоре од дното, задржете и пуштете. За да се вратите назад, повлечете од левиот или десниот раб.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Потрошен интернет преку Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Ова ќе ги ресетира сите мрежни поставки, вклучувајќи:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Ресетирај Wi-Fi и Bluetooth</string>
+    <string name="sound_dashboard_summary">Гласност, „Не вознемирувај“</string>
+    <string name="sound_settings">Звук</string>
+    <string name="tether_settings_title_all">Интернет преку мобилен</string>
+    <string name="tethering_footer_info">Користете интернет преку мобилен за да се обезбеди интернет за други уреди преку USB, етернет или Bluetooth.</string>
+</resources>

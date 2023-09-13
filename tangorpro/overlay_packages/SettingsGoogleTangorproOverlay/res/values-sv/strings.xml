@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Laddningsljud</string>
+    <string name="data_usage_app_summary_title">Wifi</string>
+    <string name="edge_to_edge_navigation_summary">Öppna startskärmen genom att svepa snabbt från skärmens nederkant. Öppna aktivitetsfältet genom att svepa långsamt från skärmens nederkant. Byt app genom att svepa uppåt från skärmens nederkant, hålla stilla och sedan släppa. Navigera bakåt genom att svepa från den vänstra eller högra kanten.</string>
+    <string name="network_dashboard_summary_no_mobile">Wifi</string>
+    <string name="non_carrier_data_usage">Dataanvändning via wifi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Alla nätverksinställningar återställs, till exempel
+
+"<li>Wifi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Återställ wifi och Bluetooth</string>
+    <string name="sound_dashboard_summary">Volym, Stör ej</string>
+    <string name="sound_settings">Ljud</string>
+    <string name="tether_settings_title_all">Internetdelning</string>
+    <string name="tethering_footer_info">Med hjälp av internetdelning kan du dela din internetanslutning med andra enheter via USB, Ethernet eller Bluetooth.</string>
+</resources>

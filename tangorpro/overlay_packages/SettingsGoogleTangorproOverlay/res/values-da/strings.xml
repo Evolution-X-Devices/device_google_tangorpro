@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Lyd ved opladning</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Gå til startskærmen ved at stryge hurtigt opad fra bunden. Få adgang til proceslinjen ved at stryge langsomt opad fra bunden. Skift mellem apps ved at stryge opad fra bunden, holde fingeren nede og derefter give slip. Gå tilbage ved at stryge fra venstre eller højre kant.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Dataforbrug via Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Denne handling nulstiller alle netværksindstillinger, bl.a.:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Nulstil Wi-Fi og Bluetooth</string>
+    <string name="sound_dashboard_summary">Lydstyrke, Forstyr ikke</string>
+    <string name="sound_settings">Lyd</string>
+    <string name="tether_settings_title_all">Netdeling</string>
+    <string name="tethering_footer_info">Brug netdeling til at levere internet til andre enheder via USB, Ethernet eller Bluetooth.</string>
+</resources>

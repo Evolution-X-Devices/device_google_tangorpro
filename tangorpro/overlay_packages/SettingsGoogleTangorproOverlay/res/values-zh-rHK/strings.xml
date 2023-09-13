@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">充電音效</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">如要返回主畫面，請從螢幕底部快速向上滑動。如要存取「工作列」，請從螢幕底部慢慢向上滑動。如要切換應用程式，請從螢幕底部向上滑動並按住，然後放手。如要返回，請從螢幕左側或右側往另一側滑動。</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi 數據用量</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"此操作會重設所有網絡設定，包括：
+
+"<li>Wi‑Fi</li>"
+"<li>藍牙</li></string>
+    <string name="reset_network_title">重設 Wi-Fi 和藍牙</string>
+    <string name="sound_dashboard_summary">音量，請勿騷擾</string>
+    <string name="sound_settings">音效</string>
+    <string name="tether_settings_title_all">網絡共享</string>
+    <string name="tethering_footer_info">使用網絡共享功能，透過 USB、以太網絡或藍牙向其他裝置提供互聯網連線。</string>
+</resources>

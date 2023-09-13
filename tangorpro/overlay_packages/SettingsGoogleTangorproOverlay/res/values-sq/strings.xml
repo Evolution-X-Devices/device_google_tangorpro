@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Tingujt e karikimit</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">"Për të shkuar tek ekrani bazë, rrëshqit shpejt lart nga fundi. Për t'u qasur te \"Shiriti i detyrave\", rrëshqit ngadalë lart nga fundi. Për të ndërruar aplikacionet, rrëshqit lart nga fundi, mbaje dhe lëshoje. Për të shkuar prapa, rrëshqit nga skaji i majtë ose i djathtë."</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Përdorimi i të dhënave të Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Kjo do të rivendosë të gjitha cilësimet e rrjetit, duke përfshirë:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Rivendos Wi-Fi dhe Bluetooth</string>
+    <string name="sound_dashboard_summary">Volumi, \"Mos shqetëso\"</string>
+    <string name="sound_settings">Tingulli</string>
+    <string name="tether_settings_title_all">Ndarja e internetit</string>
+    <string name="tethering_footer_info">Përdor ndarjen e internetit për të ofruar internet për pajisjet e tjera nëpërmjet lidhjes USB, Ethernet ose Bluetooth.</string>
+</resources>

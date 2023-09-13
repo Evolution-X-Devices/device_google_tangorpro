@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Ladetöne</string>
+    <string name="data_usage_app_summary_title">WLAN</string>
+    <string name="edge_to_edge_navigation_summary">Du kannst den Startbildschirm aufrufen, indem du schnell von unten nach oben wischst. Wenn du auf die Taskleiste zugreifen möchtest, wische langsam von unten nach oben. Um zwischen Apps zu wechseln, wische von unten nach oben, halte und lass dann los. Wenn du zurückgehen möchtest, wische vom linken oder vom rechten Rand nach innen.</string>
+    <string name="network_dashboard_summary_no_mobile">WLAN</string>
+    <string name="non_carrier_data_usage">WLAN-Datennutzung</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Hierdurch werden sämtliche Netzwerkeinstellungen zurückgesetzt, einschließlich:
+
+"<li>WLAN</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">WLAN und Bluetooth zurücksetzen</string>
+    <string name="sound_dashboard_summary">Lautstärke, Bitte nicht stören</string>
+    <string name="sound_settings">Ton</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Du kannst Tethering verwenden, um andere Geräte über USB, Ethernet oder Bluetooth mit dem Internet zu verbinden.</string>
+</resources>

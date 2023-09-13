@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Latausäänet</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Siirry aloitusnäytölle pyyhkäisemällä alareunasta ylös nopeasti. Käytä tehtäväpalkkia pyyhkäisemällä alareunasta ylös hitaasti. Vaihda sovelluksesta toiseen pyyhkäisemällä alareunasta ylös, pitämällä sormea paikallaan ja päästämällä sitten irti. Palaa takaisin pyyhkäisemällä näytön vasemmasta tai oikeasta reunasta.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi-datan käyttö</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Tämä nollaa kaikki verkkoasetukset, esimerkiksi seuraavat:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Nollaa Wi-Fi ja Bluetooth</string>
+    <string name="sound_dashboard_summary">Äänenvoimakkuus, Älä häiritse</string>
+    <string name="sound_settings">Ääni</string>
+    <string name="tether_settings_title_all">Jaettu yhteys</string>
+    <string name="tethering_footer_info">Käytä puhelinta modeemina jakaaksesi internetyhteyden muille laitteille USB:n, Ethernetin tai Bluetoothin kautta.</string>
+</resources>

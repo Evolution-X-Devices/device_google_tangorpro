@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Töltéshangok</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">A kezdőlapra való lépéshez csúsztassa ujját gyorsan felfelé a képernyő aljáról. A Feladatsáv megnyitásához csúsztassa ujját lassan felfelé a képernyő aljáról. Az alkalmazások közötti váltáshoz csúsztasson felfelé a képernyő aljáról, tartsa az ujját a képernyőn, majd emelje fel. A visszaugráshoz csúsztassa gyorsan az ujját a képernyő bal vagy jobb széléről.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Adathasználat – Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Ezzel az összes hálózati beállítást visszaállítja, például a következőket:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi és Bluetooth visszaállítása</string>
+    <string name="sound_dashboard_summary">Hangerő, Ne zavarjanak</string>
+    <string name="sound_settings">Hang</string>
+    <string name="tether_settings_title_all">Internetmegosztás</string>
+    <string name="tethering_footer_info">Az internetmegosztással internetet biztosíthat más eszközök számára USB-n, Etherneten vagy Bluetoothon keresztül.</string>
+</resources>

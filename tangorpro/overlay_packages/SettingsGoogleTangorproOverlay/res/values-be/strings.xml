@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Гукі зарадкі</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Каб перайсці на галоўны экран, хутка правядзіце па экране знізу ўверх. Каб адкрыць панэль задач, павольна правядзіце знізу ўверх. Каб пераключыцца на іншую праграму, правядзіце па экране знізу ўверх, затрымайце палец і адпусціце. Каб вярнуцца назад, правядзіце пальцам па экране злева направа ці справа налева.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Выкарыстанне трафіка праз Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Будуць скінуты ўсе сеткавыя налады, у тым ліку:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Скінуць налады Wi-Fi і Bluetooth</string>
+    <string name="sound_dashboard_summary">Гучнасць, рэжым \"Не турбаваць\"</string>
+    <string name="sound_settings">Гук</string>
+    <string name="tether_settings_title_all">Мадэм</string>
+    <string name="tethering_footer_info">Выкарыстоўваць мадэм для забеспячэння інтэрнэту на іншых прыладах праз USB, Ethernet або Bluetooth</string>
+</resources>

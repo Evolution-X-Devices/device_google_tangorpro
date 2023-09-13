@@ -77,7 +77,11 @@ PRODUCT_PACKAGES += \
 # RRO
 PRODUCT_PACKAGES += \
     GrilRadioCustomizableNoRadio \
-    TangorproGMSOverlay
+    SettingsGoogleTangorproOverlay \
+    TangorproGMSOverlay \
+    TitanSettingsOverlay \
+    TitanSettingsProviderOverlay \
+    TitanSysuiConfigOverlay
 
 # Sensors
 PRODUCT_PACKAGES += \

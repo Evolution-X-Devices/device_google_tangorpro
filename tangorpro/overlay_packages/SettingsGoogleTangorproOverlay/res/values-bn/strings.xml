@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">চার্জ হওয়ার সময় সাউন্ড</string>
+    <string name="data_usage_app_summary_title">ওয়াই-ফাই</string>
+    <string name="edge_to_edge_navigation_summary">"হোমে যেতে, নিচ থেকে উপরের দিকে দ্রুত সোয়াইপ করুন। 'টাস্কবার' অ্যাক্সেস করতে, নিচ থেকে উপরের দিকে ধীরে সোয়াইপ করুন। বিভিন্ন অ্যাপের মধ্যে একটি থেকে অন্যটিতে পাল্টাতে, নিচ থেকে উপরের দিকে সোয়াইপ করে ধরে রেখে ছেড়ে দিন। ফিরে যেতে, স্ক্রিনের বাঁদিক বা ডানদিকের প্রান্ত থেকে সোয়াইপ করুন।"</string>
+    <string name="network_dashboard_summary_no_mobile">ওয়াই-ফাই</string>
+    <string name="non_carrier_data_usage">ওয়াই-ফাই ডেটার ব্যবহার</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"এর ফলে আপনার সব নেটওয়ার্ক সেটিংস রিসেট হয়ে যাবে, যার মধ্যে অন্তর্ভুক্ত:
+
+"<li>ওয়াই-ফাই</li>"
+"<li>ব্লুটুথ</li></string>
+    <string name="reset_network_title">ওয়াই-ফাই ও ব্লুটুথ রিসেট করুন</string>
+    <string name="sound_dashboard_summary">ভলিউম, বিরক্ত করবে না</string>
+    <string name="sound_settings">সাউন্ড</string>
+    <string name="tether_settings_title_all">টেথারিং</string>
+    <string name="tethering_footer_info">ইউএসবি, ইথারনেট বা ব্লুটুথের মাধ্যমে অন্য ডিভাইসে ইন্টারনেট কানেকশন প্রদান করতে টেথারিং প্রসেস ব্যবহার করুন।</string>
+</resources>

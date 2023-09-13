@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay>
+    <item target="raw/warranty_mapping" value="@raw/warranty_mapping" />
+    <item target="bool/config_limited_warranty_enabled" value="@bool/config_limited_warranty_enabled" />
+</overlay>

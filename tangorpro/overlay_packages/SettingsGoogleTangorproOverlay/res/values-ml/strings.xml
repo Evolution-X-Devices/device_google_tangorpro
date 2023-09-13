@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">ചാർജ്ജിംഗ് ശബ്‌ദങ്ങൾ</string>
+    <string name="data_usage_app_summary_title">വൈഫൈ</string>
+    <string name="edge_to_edge_navigation_summary">ഹോമിലേക്ക് പോകാൻ, താഴെ നിന്ന് മുകളിലേക്ക് വേഗത്തിൽ സ്വൈപ്പ് ചെയ്യുക. ടാസ്‌ക്‌ബാർ ആക്‌സസ് ചെയ്യാൻ, താഴെ നിന്ന് മുകളിലേക്ക് സാവധാനം സ്വൈപ്പ് ചെയ്യുക. ആപ്പുകൾ മാറാൻ താഴെ നിന്ന് മുകളിലേക്ക് സ്വൈപ്പ് ചെയ്യുക, ഹോൾഡ് ചെയ്യുക, വിടുക. തിരികെ പോകാൻ ഇടതുവശത്തെയോ വലതുവശത്തെയോ അരികിൽ നിന്ന് സ്വൈപ്പ് ചെയ്യുക.</string>
+    <string name="network_dashboard_summary_no_mobile">വൈഫൈ</string>
+    <string name="non_carrier_data_usage">വൈഫൈ ഡാറ്റാ ഉപയോഗം</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ഇനിപ്പറയുന്നവ ഉൾപ്പെടെ എല്ലാ നെറ്റ്‍വർക്ക് ക്രമീകരണങ്ങളും ഇത് റീസെറ്റ് ചെയ്യും:
+
+"<li>വൈഫൈ</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">വൈഫൈ, Bluetooth എന്നിവ റീസെറ്റ് ചെയ്യുക</string>
+    <string name="sound_dashboard_summary">ശബ്‌ദം, ശല്യപ്പെടുത്തരുത്</string>
+    <string name="sound_settings">ശബ്‌ദം</string>
+    <string name="tether_settings_title_all">ടെതറിംഗ്</string>
+    <string name="tethering_footer_info">USB, ഇതർനെറ്റ്, അല്ലെങ്കിൽ Bluetooth വഴി മറ്റ് ഉപകരണങ്ങളിലേക്ക് ഇന്റർനെറ്റ് നൽകാൻ ടെതറിംഗ് ഉപയോഗിക്കുക.</string>
+</resources>

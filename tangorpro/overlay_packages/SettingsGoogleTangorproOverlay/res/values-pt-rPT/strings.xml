@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sons de carregamento</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Para aceder ao ecrã principal, deslize rapidamente para cima a partir da parte inferior do ecrã. Para aceder à Barra de tarefas, deslize lentamente para cima a partir da parte inferior do ecrã. Para mudar de app, deslize rapidamente para cima a partir da parte inferior do ecrã sem soltar e, em seguida, solte. Para retroceder, deslize rapidamente a partir da extremidade esquerda ou direita do ecrã.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Utilização de dados de Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Esta ação repõe todas as definições de rede, incluindo:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Repor Wi-Fi e Bluetooth</string>
+    <string name="sound_dashboard_summary">Volume, Não incomodar</string>
+    <string name="sound_settings">Som</string>
+    <string name="tether_settings_title_all">Ligação via telemóvel</string>
+    <string name="tethering_footer_info">Use a ligação (à Internet) via telemóvel para disponibilizar Internet a outros dispositivos através de USB, Ethernet ou Bluetooth.</string>
+</resources>

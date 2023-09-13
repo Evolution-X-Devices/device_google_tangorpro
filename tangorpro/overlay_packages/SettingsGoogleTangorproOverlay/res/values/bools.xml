@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_clear_calling_enabled">false</bool>
+    <bool name="config_limited_warranty_enabled">true</bool>
+    <bool name="config_show_premium_sms">false</bool>
+    <bool name="config_show_sim_info">false</bool>
+    <bool name="config_show_wifi_hotspot_settings">false</bool>
+    <bool name="default_allow_sensitive_lockscreen_content">false</bool>
+</resources>

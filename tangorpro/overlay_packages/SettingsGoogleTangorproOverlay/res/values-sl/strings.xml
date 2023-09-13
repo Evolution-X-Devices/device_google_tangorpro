@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Zvoki polnjenja</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Za pomik na začetni zaslon hitro povlecite z dna navzgor. Za dostop do opravilne vrstice počasi povlecite z dna navzgor. Za preklop med aplikacijami povlecite z dna zaslona navzgor, pridržite in spustite. Za vrnitev povlecite z levega ali desnega roba.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Preneseni podatki (Wi-Fi)</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"S tem boste ponastavili vse omrežne nastavitve, vključno s tema:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Ponastavi Wi-Fi in Bluetooth</string>
+    <string name="sound_dashboard_summary">Glasnost, ne moti</string>
+    <string name="sound_settings">Zvok</string>
+    <string name="tether_settings_title_all">Inter. pov. prek telefona</string>
+    <string name="tethering_footer_info">Uporabite povezavo računalnika z internetom prek mobilnega telefona, da drugim napravam omogočite povezavo z internetom prek USB-ja, interneta ali Bluetootha.</string>
+</resources>

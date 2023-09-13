@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Laadimise helid</string>
+    <string name="data_usage_app_summary_title">WiFi</string>
+    <string name="edge_to_edge_navigation_summary">Avakuvale liikumiseks pühkige ekraani allservast kiiresti üles. Tegumiriba kuvamiseks pühkige ekraani allservast aeglaselt üles. Rakenduste vahetamiseks pühkige allservast üles, hoidke sõrme paigal ja tõstke see üles. Tagasiliikumiseks pühkige vasakust või paremast servast keskele.</string>
+    <string name="network_dashboard_summary_no_mobile">WiFi</string>
+    <string name="non_carrier_data_usage">WiFi-andmekasutus</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"See lähtestab kõik võrguseaded, sh järgmised:
+
+"<li>WiFi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Lähtesta WiFi ja Bluetooth</string>
+    <string name="sound_dashboard_summary">Helitugevus, režiim Mitte segada</string>
+    <string name="sound_settings">Heli</string>
+    <string name="tether_settings_title_all">Jagamine</string>
+    <string name="tethering_footer_info">Jagage internetti teiste seadmetega USB, Etherneti või Bluetoothi kaudu.</string>
+</resources>

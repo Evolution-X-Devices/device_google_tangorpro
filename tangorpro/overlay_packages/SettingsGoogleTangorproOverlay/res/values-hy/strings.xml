@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Լիցքավորման ձայներ</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Հիմնական էկրան անցնելու համար էկրանի ներքևի հատվածից մատն արագ սահեցրեք վերև։ Հավելվածների վահանակը բացելու համար էկրանի ներքևի հատվածից մատը դանդաղ սահեցրեք վերև։ Մի հավելվածից մյուսն անցնելու համար էկրանի ներքևի հատվածից մատը սահեցրեք վերև, պահեք և բաց թողեք։ Հետ գնալու համար էկրանի ձախ կամ աջ եզրից մատը սահեցրեք դեպի կենտրոն։</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Թրաֆիկի օգտագործումը Wi-Fi-ի միջոցով</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Ցանցի բոլոր կարգավորումները կզրոյացվեն, այդ թվում՝
+
+"<li>Wi‑Fi-ի</li>"
+"<li>Bluetooth-ի</li></string>
+    <string name="reset_network_title">Զրոյացնել Wi-Fi-ի և Bluetooth-ի կարգավորումները</string>
+    <string name="sound_dashboard_summary">Ձայնի ուժգնություն, Չանհանգստացնել</string>
+    <string name="sound_settings">Ձայն</string>
+    <string name="tether_settings_title_all">Մոդեմի ռեժիմ</string>
+    <string name="tethering_footer_info">Օգտագործեք մոդեմի ռեժիմը՝ այլ սարքերը USB-ի, Ethernet-ի կամ Bluetooth-ի միջոցով ինտերնետին միացնելու համար։</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Dźwięki ładowania</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Aby przejść do ekranu głównego, szybko przesuń palcem z dołu do góry. Aby otworzyć pasek aplikacji, wykonaj ten sam ruch powoli. Aby przełączać się między aplikacjami, przesuń palcem w górę, przytrzymaj ekran i odsuń palec. Aby przejść wstecz, przesuń palcem od lewej lub prawej krawędzi.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Użycie danych (Wi-Fi)</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Spowoduje to usunięcie wszystkich ustawień sieciowych, w tym:
+
+"<li>Wi‑Fi,</li>"
+"<li>Bluetootha.</li></string>
+    <string name="reset_network_title">Zresetuj Wi-Fi i Bluetootha</string>
+    <string name="sound_dashboard_summary">Głośność, Nie przeszkadzać</string>
+    <string name="sound_settings">Dźwięk</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Używaj tetheringu, aby zapewnić połączenie z internetem na innych urządzeniach, korzystając z USB, Ethernetu lub Bluetootha.</string>
+</resources>

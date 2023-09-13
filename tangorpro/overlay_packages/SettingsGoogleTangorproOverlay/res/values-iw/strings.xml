@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">צלילי טעינה</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">כדי לעבור למסך הבית, מחליקים במהירות למעלה מתחתית המסך. כדי לגשת לסרגל האפליקציות, מחליקים לאט למעלה מתחתית המסך. כדי לעבור בין אפליקציות מחליקים למעלה מתחתית המסך, מחזיקים ומשחררים. כדי לחזור למסך הקודם, מחליקים מהקצה הימני או השמאלי של המסך.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">‏נתוני שימוש ב-Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"‏ההגדרה תאפס את כל הגדרות הרשת, כולל:
+
+"<li>Wi‑Fi</li>"
+‏"<li>Bluetooth</li></string>
+    <string name="reset_network_title">‏איפוס ה-Wi-Fi‏ וה-Bluetooth</string>
+    <string name="sound_dashboard_summary">"עוצמת הקול, מצב 'נא לא להפריע'"</string>
+    <string name="sound_settings">צליל</string>
+    <string name="tether_settings_title_all">שיתוף אינטרנט בין מכשירים</string>
+    <string name="tethering_footer_info">"‏כדי לספק חיבור לאינטרנט למכשירים אחרים באמצעות USB, אתרנט או Bluetooth, יש להשתמש ב'שיתוף אינטרנט בין מכשירים' (tethering)"</string>
+</resources>

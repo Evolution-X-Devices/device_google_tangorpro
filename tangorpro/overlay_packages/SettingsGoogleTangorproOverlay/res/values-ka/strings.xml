@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">დამუხტვის ხმები</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">მთავარ ეკრანზე გადასასვლელად სწრაფად გადაფურცლეთ ქვედა კიდიდან ზემოთ ამოცანათა ზოლზე წვდომისათვის სწრაფად გადაფურცლეთ ქვედა კიდიდან ზემოთ. აპების გადასართავად გადაფურცლეთ ქვედა კიდიდან ზემოთ, დააყოვნეთ და შემდეგ გაუშვით. უკან გადასასვლელად, გადაფურცლეთ ეკრანის მარცხენა ან მარჯვენა კიდიდან.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi მონაცემთა მოხმარება</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ეს აღადგენს ქსელის ყველა პარამეტრს, მათ შორის, შემდეგს:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi-ის და Bluetooth-ის გადატვირთვა</string>
+    <string name="sound_dashboard_summary">ხმის სიძლიერე, არ შემაწუხოთ</string>
+    <string name="sound_settings">ხმა</string>
+    <string name="tether_settings_title_all">ტეტერინგი</string>
+    <string name="tethering_footer_info">გამოიყენეთ ტეტერინგი ინტერნეტის სხვა მოწყობილონბებისადმი მისაწოდებლად USB-ს, Ethernet-ის, ან Bluetooth-ის საშუალებით.</string>
+</resources>

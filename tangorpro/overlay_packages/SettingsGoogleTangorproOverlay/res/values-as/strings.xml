@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">চাৰ্জিঙৰ ধ্বনি</string>
+    <string name="data_usage_app_summary_title">ৱাই-ফাই</string>
+    <string name="edge_to_edge_navigation_summary">গৃহলৈ যাবলৈ তলৰ পৰা ক্ষিপ্ৰতাৰে ওপৰলৈ ছোৱাইপ কৰক। টাস্কবাৰ এক্সেছ কৰিবলৈ, তলৰ পৰা লাহেকৈ ওপৰলৈ ছোৱাইপ কৰক। এপ্‌সমূহ সলনি কৰিবলৈ তলৰ পৰা ওপৰলৈ ছোৱাইপ কৰক, ধৰি ৰাখক আৰু এৰি দিয়ক। উভতি যাবলৈ, বাওঁ অথবা সোঁ কাষৰ পৰা ছোৱাইপ কৰক।</string>
+    <string name="network_dashboard_summary_no_mobile">ৱাই-ফাই</string>
+    <string name="non_carrier_data_usage">ৱাই-ফাই ডেটাৰ ব্যৱহাৰ</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ই এইবোৰকে অন্তৰ্ভুক্ত কৰি আটাইবোৰ নেটৱৰ্ক ছেটিং ৰিছেট কৰিব:
+
+"<li>ৱাই-ফাই</li>"
+"<li>ব্লুটুথ</li></string>
+    <string name="reset_network_title">ৱাই-ফাই আৰু ব্লুটুথ ৰিছেট কৰক</string>
+    <string name="sound_dashboard_summary">ভলিউম, অসুবিধা নিদিব</string>
+    <string name="sound_settings">ধ্বনি</string>
+    <string name="tether_settings_title_all">টিথাৰিং কৰি থকা হৈছে</string>
+    <string name="tethering_footer_info">ইউএছবি, ইথাৰনেট অথবা ব্লুটুথৰ জৰিয়তে অন্য ডিভাইচসমূহলৈ ইণ্টাৰনেট প্ৰদান কৰিবলৈ টিথাৰিং ব্যৱহাৰ কৰক।</string>
+</resources>

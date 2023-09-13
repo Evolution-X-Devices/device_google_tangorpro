@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">चार्जिंग शुरू होने पर आवाज़ की सुविधा</string>
+    <string name="data_usage_app_summary_title">वाई-फ़ाई</string>
+    <string name="edge_to_edge_navigation_summary">होम पेज पर जाने के लिए, स्क्रीन पर नीचे से ऊपर की ओर तेज़ी से स्वाइप करें. टास्कबार को ऐक्सेस करने के लिए, स्क्रीन पर नीचे से ऊपर की ओर धीरे से स्वाइप करें. एक ऐप्लिकेशन से दूसरे पर जाने के लिए, स्क्रीन के सबसे निचले हिस्से से ऊपर की ओर स्वाइप करें, स्क्रीन को दबाकर रखें, और फिर छोड़ दें. वापस जाने के लिए, स्क्रीन के बाएं या दाएं किनारे से स्वाइप करें.</string>
+    <string name="network_dashboard_summary_no_mobile">वाई-फ़ाई</string>
+    <string name="non_carrier_data_usage">वाई-फ़ाई डेटा खर्च</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"इससे नेटवर्क की सभी सेटिंग रीसेट हो जाएंगी, जिनमें ये भी शामिल हैं:
+
+"<li>वाई-फ़ाई</li>"
+"<li>ब्लूटूथ</li></string>
+    <string name="reset_network_title">वाई-फ़ाई और ब्लूटूथ की सेटिंग को रीसेट करें</string>
+    <string name="sound_dashboard_summary">आवाज़ की सेटिंग, परेशान न करें</string>
+    <string name="sound_settings">आवाज़ की सेटिंग</string>
+    <string name="tether_settings_title_all">टेदरिंग</string>
+    <string name="tethering_footer_info">टेदरिंग का इस्तेमाल यूएसबी, ईथरनेट या ब्लूटूथ की मदद से दूसरे डिवाइसों को इंटरनेट देने के लिए किया जाता है.</string>
+</resources>

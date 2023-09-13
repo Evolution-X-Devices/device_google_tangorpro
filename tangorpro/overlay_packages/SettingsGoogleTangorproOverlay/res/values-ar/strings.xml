@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">أصوات الشحن</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">للانتقال إلى الشاشة الرئيسية، مرِّر سريعًا من أسفل الشاشة لأعلاها. للوصول إلى شريط التطبيقات، مرِّر ببطء من أسفل الشاشة لأعلاها. للتبديل بين التطبيقات، مرِّر سريعًا من أسفل الشاشة إلى أعلاها واضغط مع الاستمرار ثم ارفع إصبعك عن الشاشة. للرجوع، مرِّر سريعًا من الحافة اليمنى أو اليسرى للشاشة.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">‏استخدام بيانات Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"‏سيؤدي هذا إلى إعادة ضبط كل إعدادات الشبكة، بما في ذلك:
+
+"<li>Wi‑Fi</li>"
+"<li>البلوتوث</li>.</string>
+    <string name="reset_network_title">‏إعادة ضبط شبكة Wi-Fi والبلوتوث</string>
+    <string name="sound_dashboard_summary">مستوى الصوت، ميزة \"عدم الإزعاج\"</string>
+    <string name="sound_settings">الصوت</string>
+    <string name="tether_settings_title_all">التوصيل</string>
+    <string name="tethering_footer_info">‏استخدام ميزة التوصيل لتوفير الإنترنت للأجهزة الأخرى عبر USB أو إيثرنت أو البلوتوث</string>
+</resources>

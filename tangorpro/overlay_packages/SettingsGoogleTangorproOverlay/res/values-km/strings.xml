@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">សំឡេងសាកថ្ម</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">ដើម្បីត្រឡប់ទៅ​ទំព័រដើមវិញ សូមអូសឡើងលើឱ្យរហ័ស​ពីផ្នែកខាងក្រោម។ ដើម្បីចូលប្រើរបារកិច្ចការ សូមអូសឡើងលើយឺតៗ​ពីផ្នែកខាងក្រោម។ ដើម្បីប្ដូរកម្មវិធី សូមអូស​ឡើងលើ​ពីផ្នែកខាងក្រោម ចុចឱ្យជាប់ រួចលែងវិញ។ ដើម្បី​ថយក្រោយ សូមអូស​ពីគែមខាងឆ្វេង ឬខាងស្តាំ។</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">ការប្រើប្រាស់​ទិន្នន័យ Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"វានឹងកំណត់ការកំណត់បណ្តាញឡើងវិញទាំងអស់ រួមទាំង៖
+
+"<li>Wi‑Fi</li>"
+"<li>ប៊្លូធូស</li></string>
+    <string name="reset_network_title">កំណត់ Wi-Fi និងប៊្លូធូសឡើងវិញ</string>
+    <string name="sound_dashboard_summary">កម្រិតសំឡេង មុខងារកុំរំខាន</string>
+    <string name="sound_settings">សំឡេង</string>
+    <string name="tether_settings_title_all">ការ​ភ្ជាប់</string>
+    <string name="tethering_footer_info">ប្រើការ​ភ្ជាប់ ដើម្បីផ្ដល់អ៊ីនធឺណិតដល់ឧបករណ៍ផ្សេងទៀតតាមរយៈ USB, អ៊ីសឺរណិត ឬប៊្លូធូស។</string>
+</resources>

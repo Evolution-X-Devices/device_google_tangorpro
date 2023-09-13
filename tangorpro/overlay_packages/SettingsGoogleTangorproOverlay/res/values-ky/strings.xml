@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Кубатталып баштаганда сигнал угулат</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Башкы бетке өтүү үчүн экранды ылдыйдан өйдө тез сүрүңүз. Тапшырмалар панелине өтүү үчүн экранды ылдыйдан өйдө жай сүрүңүз. Башка колдонмого которулуу үчүн экранды ылдыйдан өйдө сүрүп, бир аз коё бербей кармап туруңуз. Артка кайтуу үчүн экрандын оң же сол жагына сүрүңүз.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi трафиги</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Ушуну менен тармактын бардык параметрлери баштапкы абалга келтирилет, анын ичинде:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">"Wi-Fi менен Bluetooth'ду баштапкы абалга келтирүү"</string>
+    <string name="sound_dashboard_summary">Үндүн катуулугу, Тынчымды алба</string>
+    <string name="sound_settings">Үн</string>
+    <string name="tether_settings_title_all">Телефонду модем катары колдонуу</string>
+    <string name="tethering_footer_info">Интернетти USB, Ethernet же Bluetooth аркылуу башка түзмөктөргө таратуу үчүн телефонду модем катары колдонуңуз.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sons de recharge</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">"Pour accéder à l'écran d'accueil, balayez rapidement l'écran du bas vers le haut. Pour accéder à la barre des tâches, balayez lentement l'écran du bas vers le haut. Pour changer d'application, balayez l'écran du bas vers le haut, maintenez le doigt sur l'écran, puis relâchez-le. Pour revenir en arrière, balayez l'écran à partir du côté gauche ou droit."</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Utilisation des données Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Cette opération réinitialisera tous les paramètres réseau, y compris :
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Réinitialiser le Wi-Fi et le Bluetooth</string>
+    <string name="sound_dashboard_summary">Volume, Ne pas déranger</string>
+    <string name="sound_settings">Son</string>
+    <string name="tether_settings_title_all">Partage de connexion</string>
+    <string name="tethering_footer_info">"Utilisez le partage de connexion pour fournir une connexion Internet à d'autres appareils au moyen d'un câble USB, d'une connexion Ethernet ou du Bluetooth."</string>
+</resources>

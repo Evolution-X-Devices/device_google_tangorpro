@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">صدای شارژ کردن</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">برای رفتن به صفحه اصلی، از پایین صفحه تند به‌بالا بکشید. برای دسترسی به «نوار وظیفه»، از پایین صفحه آرام به‌بالا بکشید. برای جابه‌جایی بین برنامه‌ها، از پایین صفحه تند به‌بالا بکشید، سپس نگه دارید و رها کنید. برای برگشت، انگشتتان را از لبه سمت راست یا چپ تند بکشید.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">‏مصرف داده Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"‏با این کار، همه تنظیمات شبکه بازنشانی می‌شود، ازجمله:
+
+"<li>Wi‑Fi</li>"
+"<li>بلوتوث</li></string>
+    <string name="reset_network_title">‏بازنشانی Wi-Fi و بلوتوث</string>
+    <string name="sound_dashboard_summary">میزان صدا، «مزاحم نشوید»</string>
+    <string name="sound_settings">صدا</string>
+    <string name="tether_settings_title_all">اشتراک‌گذاری اینترنت</string>
+    <string name="tethering_footer_info">‏از «اشتراک‌گذاری اینترنت» برای ارائه اینترنت به دستگاه‌های دیگر ازطریق USB، اترنت، یا بلوتوث استفاده کنید.</string>
+</resources>

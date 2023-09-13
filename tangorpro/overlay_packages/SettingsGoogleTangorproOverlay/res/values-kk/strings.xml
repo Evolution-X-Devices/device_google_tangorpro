@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Зарядтау дыбысы</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Негізгі бетке өту үшін төменнен жоғары қарай жылдам сырғытыңыз. Тапсырмалар жолағын пайдалану үшін төменнен жоғары қарай баяу сырғытыңыз. Қолданбаларды ауыстыру үшін төменнен жоғары қарай сырғытып, ұстап тұрыңыз да, жіберіңіз. Артқа оралу үшін экранның сол немесе оң жиегінен сырғытыңыз.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi дерек трафигі</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Барлық желі параметрі қайта орнатылады, соның ішінде:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi мен Bluetooth-ты қайта орнату</string>
+    <string name="sound_dashboard_summary">Дыбыс деңгейі, \"Мазаламау\" режимі</string>
+    <string name="sound_settings">Дыбыс</string>
+    <string name="tether_settings_title_all">Тетеринг</string>
+    <string name="tethering_footer_info">USB, Ethernet не Bluetooth арқылы басқа құрылғыларды интернетке қосу үшін тетеринг функциясын пайдаланыңыз.</string>
+</resources>

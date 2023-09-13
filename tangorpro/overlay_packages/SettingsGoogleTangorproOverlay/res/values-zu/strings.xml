@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Imisindo yokushaja</string>
+    <string name="data_usage_app_summary_title">I-Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Ukuze uye ekhaya, swayiphela ngokushesha phezulu usuka phansi. Ukuze ufinyelele Ibha Yomsebenzi, swayiphela kancane phezulu kusukela phansi. Ukuze ushintshe ama-app, swayiphela phezulu kusukela ngaphansi, ubambe, bese uyakhulula. Ukuze ubuyele emuva, swayipha kusukela kunqenqema langakwesokunxele noma kwesokudla.</string>
+    <string name="network_dashboard_summary_no_mobile">I-Wi-Fi</string>
+    <string name="non_carrier_data_usage">Ukusetshenziswa kwedatha ye-Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Lokhu kuzosetha kabusha zonke amasethingi enethiwekhi,
+
+"<li>i-Wi‑Fi</li>"
+"<li>i-Bluetooth</li></string>
+    <string name="reset_network_title">Setha kabusha i-Wi-Fi ne-Bluetooth</string>
+    <string name="sound_dashboard_summary">Ivolumu, Ungaphazamisi</string>
+    <string name="sound_settings">Umsindo</string>
+    <string name="tether_settings_title_all">Ukusebenzisa ifoni njengemodemu</string>
+    <string name="tethering_footer_info">Sebenzisa ukusebenzisa ifoni njengemodemu ukuze unikeze i-inthanethi kwamanye amadivayisi nge-USB, i-Ethernet, noma i-Bluetooth.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">ਚਾਰਜ ਕਰਨ ਦੀਆਂ ਧੁਨੀਆਂ</string>
+    <string name="data_usage_app_summary_title">ਵਾਈ‑ਫਾਈ</string>
+    <string name="edge_to_edge_navigation_summary">"ਹੋਮ 'ਤੇ ਜਾਣ ਲਈ, ਹੇਠਾਂ ਤੋਂ ਉੱਪਰ ਵੱਲ ਨੂੰ ਤੁਰੰਤ-ਸਵਾਈਪ ਕਰੋ। ਟਾਸਕਬਾਰ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ, ਹੇਠਾਂ ਤੋਂ ਉੱਪਰ ਵੱਲ ਨੂੰ ਹੌਲੀ-ਸਵਾਈਪ ਕਰੋ। ਐਪਾਂ ਵਿਚਕਾਰ ਸਵਿੱਚ ਕਰਨ ਲਈ, ਹੇਠਾਂ ਤੋਂ ਉੱਪਰ ਵੱਲ ਨੂੰ ਸਵਾਈਪ ਕਰ ਕੇ ਦਬਾਈ ਰੱਖੋ ਅਤੇ ਛੱਡੋ। ਪਿੱਛੇ ਜਾਣ ਲਈ, ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਕਿਨਾਰੇ ਤੋਂ ਸਵਾਈਪ ਕਰੋ।"</string>
+    <string name="network_dashboard_summary_no_mobile">ਵਾਈ‑ਫਾਈ</string>
+    <string name="non_carrier_data_usage">ਵਾਈ-ਫਾਈ ਡਾਟਾ ਵਰਤੋਂ</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ਇਹ ਨੈੱਟਵਰਕ ਦੀਆਂ ਸਾਰੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਰੀਸੈੱਟ ਕਰੇਗਾ, ਇਸ ਵਿੱਚ ਇਹ ਸ਼ਾਮਲ ਹਨ:
+
+"<li>ਵਾਈ-ਫਾਈ</li>"
+"<li>ਬਲੂਟੁੱਥ</li></string>
+    <string name="reset_network_title">ਵਾਈ-ਫਾਈ ਅਤੇ ਬਲੂਟੁੱਥ ਨੂੰ ਰੀਸੈੱਟ ਕਰੋ</string>
+    <string name="sound_dashboard_summary">ਅਵਾਜ਼, ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ</string>
+    <string name="sound_settings">ਧੁਨੀ</string>
+    <string name="tether_settings_title_all">ਟੈਦਰਿੰਗ</string>
+    <string name="tethering_footer_info">USB, ਈਥਰਨੈੱਟ ਜਾਂ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਹੋਰ ਡੀਵਾਈਸਾਂ ਨੂੰ ਇੰਟਰਨੈੱਟ ਮੁਹੱਈਆ ਕਰਨ ਲਈ ਟੈਦਰਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Kargatzearen soinuak</string>
+    <string name="data_usage_app_summary_title">Wifia</string>
+    <string name="edge_to_edge_navigation_summary">Hasierako pantailara joateko, pasatu hatza bizkor pantailaren behealdetik gora. Zereginen barra atzitzeko, pasatu hatza motel pantailaren behealdetik gora. Aplikazioz aldatzeko, pasatu hatza pantailaren behealdetik gora eta eduki ezazu sakatuta une batez, altxatu aurretik. Atzera egiteko, pasatu hatza ezkerreko edo eskuineko ertzetik.</string>
+    <string name="network_dashboard_summary_no_mobile">Wifia</string>
+    <string name="non_carrier_data_usage">Wifi-sarearen datu-erabilera</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Hori eginez gero, sare guztien ezarpenak berrezarriko dira; besteak beste:
+
+"<li>wifia</li>"
+"<li>Bluetootha</li></string>
+    <string name="reset_network_title">Berrezarri wifia eta Bluetootha</string>
+    <string name="sound_dashboard_summary">Bolumena, ez molestatzeko modua</string>
+    <string name="sound_settings">Soinua</string>
+    <string name="tether_settings_title_all">Konexioa partekatzeko aukera</string>
+    <string name="tethering_footer_info">Erabili konexioa partekatzeko aukera; horrela, USB, Ethernet edo Bluetooth bidez eman ahalko diezu Interneteko konexioa beste gailu batzuei.</string>
+</resources>

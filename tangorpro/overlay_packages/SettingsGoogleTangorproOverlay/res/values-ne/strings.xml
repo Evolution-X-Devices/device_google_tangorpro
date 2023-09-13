@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">चार्ज गर्दा बज्ने साउन्ड</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">होम पेजमा जान तलबाट माथितिर द्रुत रूपमा स्वाइप गर्नुहोस्। टास्कबार प्रयोग गर्न तलबाट माथितिर बिस्तारै स्वाइप गर्नुहोस्। एपहरू बदल्न तलबाट माथितिर स्वाइप गर्नुहोस्, होल्ड गर्नुहोस् अनि छाड्नुहोस्। पछाडि जान स्क्रिनको बायाँ वा दायाँ कुनाबाट स्वाइप गर्नुहोस्।</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi डेटाको प्रयोग</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"तपाईंले यसो गर्नुभयो भने 
+
+"<li>Wi‑Fi</li>"
+"<li>ब्लुटुथ</li> लगायत नेटवर्कसम्बन्धी सबै सेटिङ रिसेट हुने छन्</string>
+    <string name="reset_network_title">Wi-Fi र ब्लुटुथ रिसेट गर्नुहोस्</string>
+    <string name="sound_dashboard_summary">भोल्युम, बाधा नपुऱ्याउनुहोस्</string>
+    <string name="sound_settings">साउन्ड</string>
+    <string name="tether_settings_title_all">टेदरिङ</string>
+    <string name="tethering_footer_info">USB, इथरनेट वा ब्लुटुथमार्फत अन्य डिभाइसहरूमा इन्टरनेट उपलब्ध गराउन टेदरिङ प्रयोग गर्नुहोस्।</string>
+</resources>

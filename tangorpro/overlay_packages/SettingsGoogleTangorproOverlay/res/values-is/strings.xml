@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Hleðsluhljóð</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Strjúktu hratt upp frá neðsta hluta skjásins til að opna heimaskjáinn. Strjúktu hægt upp frá neðsta hluta skjásins til að opna forritastikuna. Strjúktu upp frá neðsta hluta skjásins, haltu inni og slepptu til að skipta um forrit. Til að fara til baka skaltu strjúka frá vinstri eða hægri brún skjásins.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi gagnanotkun</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Þetta mun endurstilla allar netkerfisstillingar, þar á meðal:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Endurstilla Wi-Fi og Bluetooth</string>
+    <string name="sound_dashboard_summary">Hljóðstyrkur, Ónáðið ekki</string>
+    <string name="sound_settings">Hljóð</string>
+    <string name="tether_settings_title_all">Tjóðrun</string>
+    <string name="tethering_footer_info">Nota tjóðrun til að sjá öðrum tækjum fyrir interneti í gegnum USB, ethernet eða Bluetooth.</string>
+</resources>

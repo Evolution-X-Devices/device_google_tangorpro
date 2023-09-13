@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Сигнали під час заряджання</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Щоб перейти на головний екран, швидко проведіть пальцем угору від нижнього краю екрана. Щоб відкрити панель завдань, повільно проведіть пальцем угору від нижнього краю екрана. Щоб перейти в інший додаток, проведіть пальцем знизу вгору, утримуйте екран, а потім відпустіть. Щоб повернутися, проведіть пальцем від лівого чи правого краю екрана.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Використання трафіку Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Буде скинуто всі налаштування мережі, зокрема 
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Скинути налаштування Wi-Fi і Bluetooth</string>
+    <string name="sound_dashboard_summary">Гучність і режим \"Не турбувати\"</string>
+    <string name="sound_settings">Звук</string>
+    <string name="tether_settings_title_all">Режим модема</string>
+    <string name="tethering_footer_info">Використовуйте телефон як модем, щоб надавати доступ до Інтернету іншим пристроям через USB, Ethernet або Bluetooth.</string>
+</resources>

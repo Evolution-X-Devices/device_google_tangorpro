@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Uzlādes signāli</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Lai pārietu uz sākuma ekrānu, no ekrāna apakšdaļas ātri velciet augšup. Lai piekļūtu uzdevumu joslai, no ekrāna apakšdaļas lēni velciet augšup. Lai pārslēgtu lietotnes, no ekrāna apakšdaļas velciet augšup, turiet un atlaidiet. Lai pārietu atpakaļ, velciet no ekrāna kreisās vai labās malas.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi datu lietojums</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Tādējādi tiks atiestatīti visi tīkla iestatījumi, tostarp:
+
+"<li>Wi-Fi;</li>"
+"<li>Bluetooth.</li></string>
+    <string name="reset_network_title">Atiestatīt Wi-Fi un Bluetooth</string>
+    <string name="sound_dashboard_summary">Skaļums, režīms “Netraucēt”</string>
+    <string name="sound_settings">Skaņa</string>
+    <string name="tether_settings_title_all">Piesaiste</string>
+    <string name="tethering_footer_info">Lietojiet piesaisti, lai nodrošinātu interneta savienojumu citām ierīcēm, izmantojot USB, tīklu Ethernet vai Bluetooth.</string>
+</resources>

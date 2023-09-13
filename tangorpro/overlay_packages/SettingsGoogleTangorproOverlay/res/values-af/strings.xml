@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Laaiklanke</string>
+    <string name="data_usage_app_summary_title">Wi‑fi</string>
+    <string name="edge_to_edge_navigation_summary">Swiep vinnig op van onder af om na die tuisskerm toe te gaan. Swiep stadig op van onder af om toegang tot die Taakbalk te kry. Swiep op van onder af, hou, en los dan om apps te wissel. Swiep van die linker- of regterrand af om terug te gaan.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-fi</string>
+    <string name="non_carrier_data_usage">Wi-fi-datagebruik</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Dit sal alle netwerkinstellings terugstel, insluitend:
+
+"<li>Wi‑fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Stel wi-fi en Bluetooth terug</string>
+    <string name="sound_dashboard_summary">Volume, Moenie Steur Nie</string>
+    <string name="sound_settings">Klank</string>
+    <string name="tether_settings_title_all">Verbinding</string>
+    <string name="tethering_footer_info">Gebruik verbinding om internet deur USB, Ethernet of Bluetooth aan ander toestelle te verskaf.</string>
+</resources>

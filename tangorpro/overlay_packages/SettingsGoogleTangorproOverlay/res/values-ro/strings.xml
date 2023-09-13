@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sunete de încărcare</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Pentru a accesa ecranul de pornire, glisează rapid în sus din partea de jos. Pentru a accesa Bara de activități, glisează lent în sus din partea de jos. Pentru a trece de la o aplicație la alta, glisează în sus din partea de jos, ține apăsat, apoi ridică degetul. Pentru a reveni, glisează dinspre marginea stângă sau dreaptă.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Utilizarea datelor Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Astfel, toate setările pentru rețea vor fi reinițializate, inclusiv:
+
+"<li>Wi‑Fi,</li>"
+"<li>Bluetooth</li>.</string>
+    <string name="reset_network_title">Reinițializează setările pentru Wi-Fi și Bluetooth</string>
+    <string name="sound_dashboard_summary">Volum, Nu deranja</string>
+    <string name="sound_settings">Sunet</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Folosește tetheringul pentru a asigura o conexiune la internet pentru alte dispozitive prin USB, Ethernet sau Bluetooth.</string>
+</resources>

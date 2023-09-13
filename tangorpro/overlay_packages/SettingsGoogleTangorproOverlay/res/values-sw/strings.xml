@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sauti za kuchaji</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Ili uende kwenye skrini ya kwanza, telezesha kidole juu kwa haraka kutoka sehemu ya chini. Ili ufikie Upauzana, telezesha kidole juu taratibu kutoka sehemu ya chini. Ili ubadilishe programu, telezesha kidole juu kutoka sehemu ya chini, shikilia kisha uachilie. Ili urudi nyuma, telezesha kidole kutoka ukingo wa kushoto au kulia.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Matumizi ya data ya Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Hatua hii itaweka upya mipangilio yote ya mtandao ikiwa ni pamoja na:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Weka upya mipangilio ya Wi-Fi na Bluetooth</string>
+    <string name="sound_dashboard_summary">Kiwango cha sauti, Usinisumbue</string>
+    <string name="sound_settings">Mlio</string>
+    <string name="tether_settings_title_all">Kusambaza mtandao</string>
+    <string name="tethering_footer_info">Tumia kisambaza mtandao ili kutoa intaneti kwa vifaa vingine kupitia USB, Ethaneti au Bluetooth.</string>
+</resources>

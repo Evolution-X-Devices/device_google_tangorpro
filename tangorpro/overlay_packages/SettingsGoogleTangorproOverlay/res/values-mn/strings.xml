@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Цэнэглэх үед гарах дуу</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Нүүр лүү очихын тулд доод талаас дээш хурдан шударна уу. Ажлын хэсэгт хандахын тулд доод талаас дээш удаан шударна уу. Аппуудыг сэлгэхийн тулд доод талаас дээш шударч, удаан дараад суллана уу. Буцахын тулд зүүн эсвэл баруун ирмэгээс шударна уу.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi дата ашиглалт</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Энэ нь сүлжээний бүх тохиргоог шинэчилнэ. Үүнд:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi &amp; Bluetooth-г шинэчлэх</string>
+    <string name="sound_dashboard_summary">Дууны түвшин, Бүү саад бол</string>
+    <string name="sound_settings">Дуу</string>
+    <string name="tether_settings_title_all">Модем болгох</string>
+    <string name="tethering_footer_info">Бусад төхөөрөмжийг USB, Этернэт эсвэл Bluetooth-р дамжуулан интернэтээр хангахын тулд модем болгохыг ашиглана уу.</string>
+</resources>

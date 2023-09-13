@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">充电提示音</string>
+    <string name="data_usage_app_summary_title">WLAN</string>
+    <string name="edge_to_edge_navigation_summary">如需进入主屏幕，请从底部快速向上滑动。如需访问任务栏，请从底部缓慢向上滑动。如需切换应用，请从底部向上滑动并按住，然后再松开。如需返回，请从左侧或右侧边缘滑动。</string>
+    <string name="network_dashboard_summary_no_mobile">WLAN</string>
+    <string name="non_carrier_data_usage">WLAN 流量用量</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"这样做会重置所有网络设置，包括：
+
+"<li>WLAN</li>"
+"<li>蓝牙</li></string>
+    <string name="reset_network_title">重置 WLAN 和蓝牙</string>
+    <string name="sound_dashboard_summary">音量、勿扰</string>
+    <string name="sound_settings">声音</string>
+    <string name="tether_settings_title_all">网络共享</string>
+    <string name="tethering_footer_info">使用网络共享以通过 USB、以太网或蓝牙方式为其他设备提供互联网连接。</string>
+</resources>

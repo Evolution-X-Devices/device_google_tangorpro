@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Sonidos de carga</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Para regresar a la pantalla principal, desliza rápido hacia arriba desde la parte inferior. Para acceder a la Barra de tareas, desliza lento hacia arriba desde la parte inferior. Para cambiar de app, desliza hacia arriba desde la parte inferior, mantén presionado y, luego, suelta. Para ir atrás, desliza el dedo desde el borde izquierdo o el derecho.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Uso de datos Wi‑Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Se restablecerá toda la configuración de red, lo que incluye:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Restablecer Wi-Fi y Bluetooth</string>
+    <string name="sound_dashboard_summary">Volumen, No interrumpir</string>
+    <string name="sound_settings">Sonido</string>
+    <string name="tether_settings_title_all">Conexión</string>
+    <string name="tethering_footer_info">Usa la conexión para proporcionar Internet a otros dispositivos a través de USB, Ethernet o Bluetooth.</string>
+</resources>

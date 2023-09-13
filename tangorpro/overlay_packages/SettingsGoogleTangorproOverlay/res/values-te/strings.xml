@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">ఛార్జింగ్ సౌండ్‌లు</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">మొదటి స్క్రీన్‌కు వెళ్లడానికి, స్క్రీన్ దిగువ భాగం నుండి పైకి త్వరగా స్వైప్ చేయండి. టాస్క్‌బార్‌ను యాక్సెస్ చేయడానికి, స్క్రీన్ దిగువ భాగం నుండి పైకి నెమ్మదిగా స్వైప్ చేయండి. యాప్‌ల మధ్యన మారడానికి, స్క్రీన్ దిగువ భాగం నుండి పైకి స్వైప్ చేసి, పట్టుకొని, ఆ తర్వాత వదిలేయండి. వెనుకకు వెళ్లడానికి, ఎడమ లేదా కుడి వైపు అంచు నుండి స్వైప్ చేయండి.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi డేటా వినియోగం</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"ఇది అన్ని నెట్‌వర్క్ సెట్టింగ్‌లను రీసెట్ చేస్తుంది, ఈ కింది వాటితో సహా: 
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi &amp; బ్లూటూత్‌ను రీసెట్ చేయండి</string>
+    <string name="sound_dashboard_summary">వాల్యూమ్, అంతరాయం కలిగించవద్దు</string>
+    <string name="sound_settings">సౌండ్</string>
+    <string name="tether_settings_title_all">టీథరింగ్</string>
+    <string name="tethering_footer_info">USB, ఈథర్‌నెట్ లేదా బ్లూటూత్ ద్వారా ఇతర పరికరాలకు ఇంటర్నెట్‌ను అందించడానికి టెథరింగ్‌ని ఉపయోగించండి.</string>
+</resources>

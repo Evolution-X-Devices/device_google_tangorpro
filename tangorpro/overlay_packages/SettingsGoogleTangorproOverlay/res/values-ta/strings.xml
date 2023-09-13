@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">சார்ஜிங் ஒலிகள்</string>
+    <string name="data_usage_app_summary_title">வைஃபை</string>
+    <string name="edge_to_edge_navigation_summary">முகப்புக்குச் செல்ல, கீழிருந்து மேல்நோக்கி விரைவாக ஸ்வைப் செய்யவும். செயல் பட்டியை அணுக, கீழிருந்து மேல்நோக்கி மெதுவாக ஸ்வைப் செய்யவும். ஆப்ஸுக்கிடையே மாற, கீழிருந்து மேல்நோக்கி ஸ்வைப் செய்து, பிடித்து பிறகு விடுவிக்கவும். பின்செல்ல, திரையின் இடது/வலது விளிம்பிலிருந்து ஸ்வைப் செய்யவும்.</string>
+    <string name="network_dashboard_summary_no_mobile">வைஃபை</string>
+    <string name="non_carrier_data_usage">வைஃபை டேட்டா உபயோகம்</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"பின்வருபவை உட்பட அனைத்து நெட்வொர்க் அமைப்புகளையும் இது மீட்டமைக்கும்:
+
+"<li>வைஃபை</li>"
+"<li>புளூடூத்</li></string>
+    <string name="reset_network_title">வைஃபை &amp; புளூடூத்தை மீட்டமை</string>
+    <string name="sound_dashboard_summary">ஒலியளவு, தொந்தரவு செய்ய வேண்டாம்</string>
+    <string name="sound_settings">ஒலி</string>
+    <string name="tether_settings_title_all">இணைப்பு முறை</string>
+    <string name="tethering_footer_info">இணைப்பு முறையைப் பயன்படுத்தி USB, ஈதர்நெட், புளூடூத் ஆகியவை மூலம் மற்ற சாதனங்களுக்கு இணைய இணைப்பை வழங்குங்கள்.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Bunyi apabila mengecas</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Untuk mengakses laman utama, leret ke atas dari bawah dengan pantas. Untuk mengakses Bar Tugas, leret ke atas dari bawah dengan perlahan. Untuk beralih apl, leret ke atas dari bawah, tahan dan lepaskan. Untuk kembali atau ke hadapan, leret dari sisi kiri atau kanan.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Penggunaan data Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Tindakan ini akan menetapkan semula semua tetapan rangkaian, termasuk:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Tetapkan semula Wi-Fi &amp; Bluetooth</string>
+    <string name="sound_dashboard_summary">Kelantangan, Jangan Ganggu</string>
+    <string name="sound_settings">Bunyi</string>
+    <string name="tether_settings_title_all">Penambatan</string>
+    <string name="tethering_footer_info">Gunakan penambatan untuk menyediakan Internet kepada peranti lain melalui USB, Ethernet atau Bluetooth.</string>
+</resources>

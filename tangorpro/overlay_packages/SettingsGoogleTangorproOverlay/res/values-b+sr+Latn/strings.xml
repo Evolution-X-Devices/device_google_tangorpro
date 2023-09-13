@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Zvukovi punjenja</string>
+    <string name="data_usage_app_summary_title">WiFi</string>
+    <string name="edge_to_edge_navigation_summary">Da biste brzo otišli na početnu stranicu, brzo prevucite nagore sa dna. Da biste pristupili traci zadataka, lagano prevucite nagore sa dna. Da biste prešli sa jedne aplikacije na drugu, prevucite nagore od dna ekrana, zadržite, pa pustite. Da biste se vratili nazad, prevucite od leve ili desne ivice.</string>
+    <string name="network_dashboard_summary_no_mobile">WiFi</string>
+    <string name="non_carrier_data_usage">Potrošnja WiFi podataka</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Ovim resetujete sva podešavanja mreže, uključujući:
+
+"<li>WiFi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Resetuj WiFi i Bluetooth</string>
+    <string name="sound_dashboard_summary">Jačina zvuka, Ne uznemiravaj</string>
+    <string name="sound_settings">Zvuk</string>
+    <string name="tether_settings_title_all">Privezivanje</string>
+    <string name="tethering_footer_info">Koristite privezivanje da biste pružili internet drugim uređajima preko USB-a, eterneta ili Bluetooth-a.</string>
+</resources>

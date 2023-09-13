@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‏‏‏‎‎‏‎‏‏‏‎‏‏‏‏‎‏‏‏‏‏‎‎‏‎‎‎‎‎‎‎‏‏‏‎‏‏‏‏‏‎‏‎‎‎‏‏‏‏‏‎‎‎‏‏‎‎‏‏‎‎‎‎‎‎Charging sounds‎‏‎‎‏‎</string>
+    <string name="data_usage_app_summary_title">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‎‏‏‏‎‎‎‏‎‏‎‎‏‎‏‎‏‎‏‏‏‏‏‏‎‏‏‏‎‏‏‏‎‏‎‎‎‎‎‎‎‎‏‎‎‏‏‎‎‎‏‏‎‎‎‎‎‏‏‏‎‏‎‎Wi‑Fi‎‏‎‎‏‎</string>
+    <string name="edge_to_edge_navigation_summary">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‏‏‎‎‏‎‎‏‎‎‏‎‏‎‎‏‎‏‎‏‏‏‏‎‎‎‎‎‎‏‏‎‎‎‏‎‎‏‎‏‎‏‎‏‏‏‎‏‎‏‏‏‏‎‎‏‎‏‏‎‏‎‏‏‎To go home, quick-swipe up from the bottom. To access the Taskbar, slow-swipe up from the bottom. To switch apps, swipe up from the bottom, hold, and release. To go back, swipe from the left or right edge.‎‏‎‎‏‎</string>
+    <string name="network_dashboard_summary_no_mobile">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‎‏‎‏‏‎‎‏‎‏‎‎‎‎‏‎‎‎‎‎‏‎‎‎‏‎‎‎‏‏‏‎‎‏‎‏‎‏‎‏‎‎‏‎‎‏‏‎‏‏‏‏‎‎‏‏‏‎‎‏‎‎Wi‑Fi‎‏‎‎‏‎</string>
+    <string name="non_carrier_data_usage">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‎‏‎‎‏‎‏‏‎‎‎‎‏‎‎‎‏‏‏‎‏‎‎‎‎‏‏‏‎‏‎‎‏‎‎‏‎‏‎‎‏‏‎‏‎‏‎‎‎‏‏‎‏‎‎‎‏‏‎‎‏‎‏‎Wi‑Fi data usage‎‏‎‎‏‎</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‏‏‎‏‎‎‎‎‎‎‎‏‏‎‏‏‎‏‎‎‎‎‎‏‏‎‏‎‎‎‏‏‎‏‎‎‏‏‎‎‎‏‎‎‏‎‏‎‎‏‎‎‎‏‎‎‎‎‏‏‎‏‎This will reset all network settings, including:‎‏‎‎‏‏‎
+‎‏‎‎‏‏‏‎‎‏‎‎‏‏‎
+‎‏‎‎‏‏‏‎‎‏‎‎‏‏‎"<li>‎‏‎‎‏‏‏‎Wi‑Fi‎‏‎‎‏‏‎</li>"‎‏‎‎‏‏‏‎‎‏‎‎‏‏‎
+‎‏‎‎‏‏‏‎‎‏‎‎‏‏‎"<li>‎‏‎‎‏‏‏‎Bluetooth‎‏‎‎‏‏‎</li>‎‏‎‎‏‏‏‎‎‏‎‎‏‎</string>
+    <string name="reset_network_title">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‏‏‏‎‎‎‎‎‎‎‏‏‏‏‎‎‏‏‏‏‏‏‏‏‏‏‏‏‏‏‎‏‏‏‏‎‏‏‎‎‎‎‎‎‏‏‏‏‎‏‏‏‏‎‏‎‎‏‏‏‏‎‎Reset Wi-Fi &amp; Bluetooth‎‏‎‎‏‎</string>
+    <string name="sound_dashboard_summary">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‏‏‏‏‏‎‎‏‎‎‏‎‏‎‎‏‏‏‏‎‏‏‏‏‎‏‎‎‎‏‏‎‎‎‏‏‎‎‎‎‏‏‎‏‎‏‏‏‏‎‏‏‏‎‎‎‎‎‏‎‎‏‎Volume, Do Not Disturb‎‏‎‎‏‎</string>
+    <string name="sound_settings">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‏‏‏‎‎‎‏‏‎‏‏‎‎‏‎‎‏‏‎‎‏‏‎‏‎‏‏‏‏‎‏‎‏‏‏‎‏‏‎‏‎‏‏‏‏‏‎‎‎‏‏‏‏‏‎‎‎‏‎‎‏‎‎‎‎Sound‎‏‎‎‏‎</string>
+    <string name="tether_settings_title_all">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‏‏‎‎‎‎‎‎‎‎‎‏‎‎‏‏‏‏‎‎‏‎‎‎‎‏‎‏‎‏‎‏‎‎‎‎‎‎‏‎‎‏‏‎‏‏‎‎‏‏‏‏‏‎‎‏‏‎‏‏‏‎‎Tethering‎‏‎‎‏‎</string>
+    <string name="tethering_footer_info">‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‏‏‏‎‏‏‎‎‎‏‏‏‏‏‏‏‎‏‎‏‎‎‏‏‎‏‏‎‎‏‏‎‏‏‎‎‏‎‎‎‏‎‎‎‏‎‎‎‏‎‏‏‏‎‏‏‏‎‏‎‎‏‏‎‏‎Use tethering to provide internet to other devices through USB, Ethernet, or Bluetooth.‎‏‎‎‏‎</string>
+</resources>

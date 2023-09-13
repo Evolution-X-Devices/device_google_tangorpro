@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Şarj sesleri</string>
+    <string name="data_usage_app_summary_title">Kablosuz ağ</string>
+    <string name="edge_to_edge_navigation_summary">Ana ekrana gitmek için alt kısımdan hızlıca yukarı kaydırın. Görev çubuğuna erişmek için alt kısımdan yavaşça yukarı kaydırın. Uygulamalar arasında geçiş yapmak için ekranın altından yukarı kaydırın, tutun ve sonra bırakın. Geri gitmek için ekranın sol veya sağ kenarından kaydırın.</string>
+    <string name="network_dashboard_summary_no_mobile">Kablosuz</string>
+    <string name="non_carrier_data_usage">Kablosuz ağ veri kullanımı</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Bu sıfırlama işlemi, aşağıdakiler de dahil olmak üzere tüm ağ ayarlarını sıfırlayacaktır:
+
+"<li>Kablosuz ağ</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">"Kablosuz ağı ve Bluetooth'u sıfırla"</string>
+    <string name="sound_dashboard_summary">Ses seviyesi, Rahatsız Etmeyin</string>
+    <string name="sound_settings">Ses</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">USB, Ethernet veya Bluetooth aracılığıyla diğer cihazlara internet sağlamak için tethering kullanın.</string>
+</resources>

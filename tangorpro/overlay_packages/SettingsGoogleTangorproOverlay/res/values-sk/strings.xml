@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Zvuky nabíjania</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Ak chcete prejsť na plochu, rýchlo potiahnite zdola. Ak chcete prejsť na panel aplikácií, pomaly potiahnite zdola nahor. Ak chcete prejsť na inú aplikáciu, potiahnite prstom zdola nahor, pridržte ho a uvoľnite. Ak chcete prejsť dozadu, potiahnite z ľavého alebo pravého okraja.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Spotreba dát cez Wi‑Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Týmto resetujete všetky nastavenia sietí vrátane:
+
+"<li>siete Wi‑Fi,</li>"
+"<li>rozhrania Bluetooth</li></string>
+    <string name="reset_network_title">Resetovať Wi-Fi a Bluetooth</string>
+    <string name="sound_dashboard_summary">Hlasitosť, režim bez vyrušení</string>
+    <string name="sound_settings">Zvuk</string>
+    <string name="tether_settings_title_all">Tethering</string>
+    <string name="tethering_footer_info">Poskytujte internet iným zariadeniam cez USB, ethernet alebo Bluetooth pomocou tetheringu.</string>
+</resources>

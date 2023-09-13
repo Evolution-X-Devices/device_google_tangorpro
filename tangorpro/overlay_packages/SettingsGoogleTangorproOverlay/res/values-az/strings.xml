@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Şarj səsləri</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">Ana səhifəyə keçmək üçün aşağıdan sürətlə yuxarı sürüşdürün. İşləmə panelinə daxil olmaq üçün aşağıdan astaca yuxarı sürüşdürün. Tətbiqləri dəyişmək üçün aşağıdan yuxarı sürüşdürüb saxlayın və buraxın. Geri qayıtmaq üçün sol və ya sağ kənardan sürüşdürün.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi data istifadəsi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Bununla bütün şəbəkə ayarları sıfırlanacaq, bura daxildir:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">"Wi-Fi &amp; Bluetooth'u sıfırlayın"</string>
+    <string name="sound_dashboard_summary">Səs səviyyəsi, Narahat Etməyin</string>
+    <string name="sound_settings">Səs</string>
+    <string name="tether_settings_title_all">Modem rejimi</string>
+    <string name="tethering_footer_info">USB, Ethernet və ya Bluetooth vasitəsilə digər cihazlara internet təmin etmək üçün modem rejimindən istifadə edin.</string>
+</resources>

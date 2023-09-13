@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">เสียงการชาร์จ</string>
+    <string name="data_usage_app_summary_title">Wi-Fi</string>
+    <string name="edge_to_edge_navigation_summary">หากต้องการไปที่หน้าแรก ให้ปัดขึ้นจากด้านล่างเร็วๆ หากต้องการเข้าถึงแถบงาน ให้ปัดขึ้นจากด้านล่างช้าๆ หากต้องการสลับแอป ให้ปัดขึ้นจากด้านล่างค้างไว้แล้วปล่อย หากต้องการย้อนกลับ ให้ปัดจากขอบด้านซ้ายหรือขวา</string>
+    <string name="network_dashboard_summary_no_mobile">Wi-Fi</string>
+    <string name="non_carrier_data_usage">ปริมาณการใช้อินเทอร์เน็ตผ่าน Wi-Fi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"การดำเนินการนี้จะรีเซ็ตการตั้งค่าเครือข่ายทั้งหมด ได้แก่
+
+"<li>Wi‑Fi</li>"
+"<li>บลูทูธ</li></string>
+    <string name="reset_network_title">รีเซ็ต Wi-Fi และบลูทูธ</string>
+    <string name="sound_dashboard_summary">ระดับเสียง ห้ามรบกวน</string>
+    <string name="sound_settings">เสียง</string>
+    <string name="tether_settings_title_all">การเชื่อมต่อผ่านมือถือ</string>
+    <string name="tethering_footer_info">ใช้การเชื่อมต่ออินเทอร์เน็ตผ่านมือถือเพื่อให้สัญญาณอินเทอร์เน็ตกับอุปกรณ์อื่นผ่าน USB อีเทอร์เน็ต หรือบลูทูธ</string>
+</resources>

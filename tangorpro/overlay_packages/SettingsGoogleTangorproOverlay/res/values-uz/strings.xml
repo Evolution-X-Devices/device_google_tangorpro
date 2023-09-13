@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">Batareya holati signallari</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">Bosh ekranga qaytish uchun pastdan tepaga tez suring. Vazifalar panelini ochish uchun pastdan tepaga sekin suring. Bir ilovadan boshqasiga oʻtish uchun pastdan tepaga surib, bosib turing va qoʻyib yuboring. Orqaga qaytish uchun ekran chetini chapga yoki oʻngga suring.</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">Wi-Fi trafik sarfi</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"Bu barcha tarmoq sozlamalarini, jumladan, mazkur sozlamalarni asliga qaytaradi:
+
+"<li>Wi‑Fi</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Wi-Fi va Bluetooth tarmoqni asliga tiklash</string>
+    <string name="sound_dashboard_summary">Tovush balandligi, Bezovta qilinmasin</string>
+    <string name="sound_settings">Tovush</string>
+    <string name="tether_settings_title_all">Modem rejimi</string>
+    <string name="tethering_footer_info">Modem rejimida internetni boshqa qurilmalarga USB, Ethernet yoki Bluetooth orqali tarqatish.</string>
+</resources>

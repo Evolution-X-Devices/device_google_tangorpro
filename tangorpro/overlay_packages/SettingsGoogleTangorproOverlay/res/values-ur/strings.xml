@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charging_sounds_title">چارج کرنے کی آوازیں</string>
+    <string name="data_usage_app_summary_title">Wi‑Fi</string>
+    <string name="edge_to_edge_navigation_summary">ہوم پر جانے کے لیے، نیچے سے فوری طور پر اوپر سوائپ کریں۔ ٹاسک بار تک رسائی کے لیے نیچے سے اوپر کی طرف آہستہ سوائپ کریں۔ ایپس کے درمیان سوئچ کرنے کے لیے، نیچے سے اوپر کی طرف سوائپ کریں، پکڑے رہیں اور ریلیز کریں۔ پیچھے جانے کے لیے، بائیں یا دائیں کنارے سے سوائپ کریں۔</string>
+    <string name="network_dashboard_summary_no_mobile">Wi‑Fi</string>
+    <string name="non_carrier_data_usage">‏Wi-Fi ڈیٹا کا استعمال</string>
+    <string name="non_carrier_data_usage_warning" />
+    <string name="reset_network_desc">"‏اس سے نیٹ ورک کی سبھی ترتیبات ری سیٹ ہو جائیں گی، بشمول:
+
+"<li>Wi‑Fi</li>"
+"<li>بلوٹوتھ</li></string>
+    <string name="reset_network_title">‏Wi-Fi اور بلوٹوتھ ری سیٹ کریں</string>
+    <string name="sound_dashboard_summary">والیوم، ڈسٹرب نہ کریں</string>
+    <string name="sound_settings">آواز</string>
+    <string name="tether_settings_title_all">ٹیدرنگ</string>
+    <string name="tethering_footer_info">‏USB، ایتھرنیٹ یا بلوٹوتھ کے ذریعے دوسرے آلات کو انٹرنیٹ فراہم کرنے کے لیے ٹیدرنگ کا استعمال کریں۔</string>
+</resources>
