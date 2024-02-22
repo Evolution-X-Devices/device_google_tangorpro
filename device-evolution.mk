@@ -11,6 +11,9 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-evolution
 PRODUCT_PACKAGES += \
     ANGLE
 
+# PixelParts
+include packages/apps/PixelParts/device.mk
+
 # Build necessary packages for vendor
 
 # Audio
