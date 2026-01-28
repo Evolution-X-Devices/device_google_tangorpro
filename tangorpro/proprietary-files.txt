@@ -4,7 +4,7 @@
 
 # AiAi
 product/priv-app/DeviceIntelligenceNetworkPrebuiltAstrea/DeviceIntelligenceNetworkPrebuiltAstrea.apk;PRESIGNED
-product/priv-app/DevicePersonalizationAiAiPrebuiltPixelTablet2023/DevicePersonalizationAiAiPrebuiltPixelTablet2023.apk;PRESIGNED
+product/priv-app/DevicePersonalizationAiAiPrebuiltPixelTablet2023/DevicePersonalizationAiAiPrebuiltPixelTablet2023.apk;OVERRIDES=DevicePersonalizationAiAiPrebuiltPixel2025;PRESIGNED
 
 # Audio
 product/etc/ambient/matcher_tah.leveldb
@@ -12,6 +12,9 @@ product/etc/firmware/music_detector.descriptor
 product/etc/firmware/music_detector.sound_model
 product/etc/firmware/music_detector.sound_model_2
 product/etc/firmware/music_detector.sound_model_tflite
+
+# Camera
+product/priv-app/GoogleCamera/GoogleCamera.apk;OVERRIDES=Aperture;PRESIGNED
 
 # Camera extensions
 product/etc/permissions/androidx.camera.extensions.impl.xml
@@ -54,7 +57,7 @@ product/etc/permissions/com.google.assistant.hubui.xml
 product/priv-app/SmartDisplayPrebuilt/SmartDisplayPrebuilt.apk;PRESIGNED
 
 # Now Playing
-product/app/NowPlayingPrebuilt/NowPlayingPrebuilt.apk
+product/app/NowPlayingPrebuilt/NowPlayingPrebuilt.apk;PRESIGNED
 product/etc/default-permissions/default-permissions_nowplaying.xml
 product/etc/sysconfig/nowplaying_app_26q1.xml
 
